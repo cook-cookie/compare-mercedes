@@ -1,5 +1,8 @@
 # compare-mercedes
 
+## Site URL
+http://cook-cookie.github.io/compare-mercedes
+
 ## Build Setup
 
 ```bash
