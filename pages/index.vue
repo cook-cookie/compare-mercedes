@@ -1,19 +1,32 @@
 <template>
-  <div class="relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0">
-    <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
-      <h1 class="display-2">Compare Mercedes</h1>
-      <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
-        <h2 class="text-2xl leading-7 font-semibold">
-          メルセデス車比較用サイト
-        </h2>
-        <p class="mt-3 text-gray-600">
-          工事中。メルセデス車の諸元比較用サイトを作成予定<br>
-        </p>
+  <div class="container">
+    <div class="row">
+      <h1 class="display-2 justify-center">Compare Mercedes</h1>
+    </div>
+    <div class="row">
+      <p class="lead">メルセデス車比較用サイト</p>
+    </div>
+    <div class="row">
+      <p class="text-muted">工事中。メルセデス車の諸元比較用サイトを作成予定</p>
+    </div>
+    <div class="row">
+      <div class="col-6">
+        <b-dropdown id="dropdown-1" text="車を選択">
+          <b-dropdown-item>Aクラス</b-dropdown-item>
+          <b-dropdown-item>Bクラス</b-dropdown-item>
+          <b-dropdown-item>Cクラス</b-dropdown-item>
+          <b-dropdown-item>Eクラス</b-dropdown-item>
+          <b-dropdown-item>Sクラス</b-dropdown-item>
+        </b-dropdown>
       </div>
-      <div class="flex justify-center pt-4 space-x-2">
-        <a href="https://www.mercedes-benz.co.jp/passengercars.html">
-          メルセデス・ベンツ日本 オフィシャルサイト
-        </a>
+      <div class="col-6">
+        <b-dropdown id="dropdown-2" text="車を選択">
+          <b-dropdown-item>Aクラス</b-dropdown-item>
+          <b-dropdown-item>Bクラス</b-dropdown-item>
+          <b-dropdown-item>Cクラス</b-dropdown-item>
+          <b-dropdown-item>Eクラス</b-dropdown-item>
+          <b-dropdown-item>Sクラス</b-dropdown-item>
+        </b-dropdown>
       </div>
     </div>
   </div>

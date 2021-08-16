@@ -1,0 +1,684 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "A-Class",
+      "lineup": [
+        {
+          "id": 1,
+          "modelName": "A180",
+          "specifications": {
+            "driveSystem": "FF",
+            "transmission": {
+              "gears": 7,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "M282",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1331,
+              "boa": 72.2,
+              "stroke": 81.3,
+              "maximumOutput": 136,
+              "maximumTorque": 200,
+              "compressionRatio": 10.6,
+              "fuelType": "ハイオク",
+              "tankCapacity": 43
+            },
+            "weight": 1360,
+            "capacity": 5,
+            "gyrationRadius": 5.0,
+            "wltc": 15.2,
+            "bodySize": {
+              "length": 4420,
+              "width": 1800,
+              "height": 1420,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 130
+          },
+          "bodyType": "Hatchback",
+          "price": 3620000,
+          "compatibleOptions": [
+            {
+              "name": "ナビゲーションパッケージ",
+              "price": 191000
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "modelName": "A180 Style",
+          "specifications": {
+            "driveSystem": "FF",
+            "transmission": {
+              "gears": 7,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "M282",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1331,
+              "boa": 72.2,
+              "stroke": 81.3,
+              "maximumOutput": 136,
+              "maximumTorque": 200,
+              "compressionRatio": 10.6,
+              "fuelType": "ハイオク",
+              "tankCapacity": 43
+            },
+            "weight": 1360,
+            "capacity": 5,
+            "gyrationRadius": 5.0,
+            "wltc": 15.2,
+            "bodySize": {
+              "length": 4420,
+              "width": 1800,
+              "height": 1420,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 130
+          },
+          "bodyType": "Hatchback",
+          "price": 4050000,
+          "compatibleOptions": [
+            {
+              "name": "ナビゲーションパッケージ",
+              "price": 191000
+            },
+            {
+              "name": "AMGライン",
+              "price": 266000
+            },
+            {
+              "name": "AMGレザーエクスクルーシブパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "アドバンスドパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "パノラミックスライディングルーフ",
+              "price": 170000
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "modelName": "A200d",
+          "specifications": {
+            "driveSystem": "FF",
+            "transmission": {
+              "gears": 8,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "OM654q",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1949,
+              "boa": 82.0,
+              "stroke": 92.3,
+              "maximumOutput": 150,
+              "maximumTorque": 320,
+              "compressionRatio": 15.5,
+              "fuelType": "軽油",
+              "tankCapacity": 43
+            },
+            "weight": 1470,
+            "capacity": 5,
+            "gyrationRadius": 5.0,
+            "wltc": 19.2,
+            "bodySize": {
+              "length": 4420,
+              "width": 1800,
+              "height": 1420,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 130
+          },
+          "bodyType": "Hatchback",
+          "price": 4360000,
+          "compatibleOptions": [
+            {
+              "name": "ナビゲーションパッケージ",
+              "price": 191000
+            },
+            {
+              "name": "AMGライン",
+              "price": 266000
+            },
+            {
+              "name": "AMGレザーエクスクルーシブパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "アドバンスドパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "パノラミックスライディングルーフ",
+              "price": 170000
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "modelName": "A250e",
+          "specifications": {
+            "driveSystem": "FF",
+            "transmission": {
+              "gears": 8,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "M282",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1331,
+              "boa": 72.2,
+              "stroke": 81.3,
+              "maximumOutput": 160,
+              "maximumTorque": 250,
+              "compressionRatio": 10.6,
+              "fuelType": "ハイオク",
+              "tankCapacity": 35
+            },
+            "weight": 1680,
+            "capacity": 5,
+            "gyrationRadius": 5.0,
+            "wltc": 16.1,
+            "bodySize": {
+              "length": 4440,
+              "width": 1800,
+              "height": 1455,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 145
+          },
+          "bodyType": "Hatchback",
+          "price": 5570000,
+          "compatibleOptions": [
+            {
+              "name": "ナビゲーションパッケージ",
+              "price": 191000
+            },
+            {
+              "name": "AMGレザーエクスクルーシブパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "アドバンスドパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "パノラミックスライディングルーフ",
+              "price": 170000
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "modelName": "AMG A35 4MATIC",
+          "specifications": {
+            "driveSystem": "4WD",
+            "transmission": {
+              "gears": 7,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "M260",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1991,
+              "boa": 83.0,
+              "stroke": 92.0,
+              "maximumOutput": 306,
+              "maximumTorque": 400,
+              "compressionRatio": 10.0,
+              "fuelType": "ハイオク",
+              "tankCapacity": 51
+            },
+            "weight": 1560,
+            "capacity": 5,
+            "gyrationRadius": 5.4,
+            "wltc": 12.0,
+            "bodySize": {
+              "length": 4440,
+              "width": 1800,
+              "height": 1410,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 105
+          },
+          "bodyType": "Hatchback",
+          "price": 6360000,
+          "compatibleOptions": [
+            {
+              "name": "ナビゲーションパッケージ",
+              "price": 191000
+            },
+            {
+              "name": "AMGアドバンスドパッケージ",
+              "price": 358000
+            },
+            {
+              "name": "AMGパフォーマンスパッケージ",
+              "price": 563000
+            },
+            {
+              "name": "パノラミックスライディングルーフ",
+              "price": 170000
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "modelName": "AMG A45S 4MATIC+",
+          "specifications": {
+            "driveSystem": "4WD",
+            "transmission": {
+              "gears": 8,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "M139",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1991,
+              "boa": 83.0,
+              "stroke": 92.0,
+              "maximumOutput": 421,
+              "maximumTorque": 500,
+              "compressionRatio": 9.0,
+              "fuelType": "ハイオク",
+              "tankCapacity": 51
+            },
+            "weight": 1640,
+            "capacity": 5,
+            "gyrationRadius": 5.4,
+            "wltc": 11.0,
+            "bodySize": {
+              "length": 4445,
+              "width": 1850,
+              "height": 1410,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 115
+          },
+          "bodyType": "Hatchback",
+          "price": 8020000,
+          "compatibleOptions": [
+            {
+              "name": "AMGアドバンスドパッケージ",
+              "price": 204000
+            },
+            {
+              "name": "AMGパフォーマンスパッケージ",
+              "price": 563000
+            },
+            {
+              "name": "パノラミックスライディングルーフ",
+              "price": 170000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "A-Class Sedan",
+      "lineup": [
+        {
+          "id": 1,
+          "modelName": "A180",
+          "specifications": {
+            "driveSystem": "FF",
+            "transmission": {
+              "gears": 7,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "M282",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1331,
+              "boa": 72.2,
+              "stroke": 81.3,
+              "maximumOutput": 136,
+              "maximumTorque": 200,
+              "compressionRatio": 10.6,
+              "fuelType": "ハイオク",
+              "tankCapacity": 43
+            },
+            "weight": 1370,
+            "capacity": 5,
+            "gyrationRadius": 5.0,
+            "wltc": 15.4,
+            "bodySize": {
+              "length": 4550,
+              "width": 1800,
+              "height": 1430,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 135
+          },
+          "bodyType": "Sedan",
+          "price": 3620000,
+          "compatibleOptions": [
+            {
+              "name": "ナビゲーションパッケージ",
+              "price": 191000
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "modelName": "A180 Style",
+          "specifications": {
+            "driveSystem": "FF",
+            "transmission": {
+              "gears": 7,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "M282",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1331,
+              "boa": 72.2,
+              "stroke": 81.3,
+              "maximumOutput": 136,
+              "maximumTorque": 200,
+              "compressionRatio": 10.6,
+              "fuelType": "ハイオク",
+              "tankCapacity": 43
+            },
+            "weight": 1370,
+            "capacity": 5,
+            "gyrationRadius": 5.0,
+            "wltc": 15.4,
+            "bodySize": {
+              "length": 4550,
+              "width": 1800,
+              "height": 1430,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 135
+          },
+          "bodyType": "Sedan",
+          "price": 4050000,
+          "compatibleOptions": [
+            {
+              "name": "ナビゲーションパッケージ",
+              "price": 191000
+            },
+            {
+              "name": "AMGライン",
+              "price": 266000
+            },
+            {
+              "name": "AMGレザーエクスクルーシブパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "アドバンスドパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "パノラミックスライディングルーフ",
+              "price": 170000
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "modelName": "A200d",
+          "specifications": {
+            "driveSystem": "FF",
+            "transmission": {
+              "gears": 8,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "OM654q",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1949,
+              "boa": 82.0,
+              "stroke": 92.3,
+              "maximumOutput": 150,
+              "maximumTorque": 320,
+              "compressionRatio": 15.5,
+              "fuelType": "軽油",
+              "tankCapacity": 43
+            },
+            "weight": 1480,
+            "capacity": 5,
+            "gyrationRadius": 5.0,
+            "wltc": 19.2,
+            "bodySize": {
+              "length": 4550,
+              "width": 1800,
+              "height": 1430,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 110
+          },
+          "bodyType": "Sedan",
+          "price": 4360000,
+          "compatibleOptions": [
+            {
+              "name": "ナビゲーションパッケージ",
+              "price": 191000
+            },
+            {
+              "name": "AMGライン",
+              "price": 266000
+            },
+            {
+              "name": "AMGレザーエクスクルーシブパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "アドバンスドパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "パノラミックスライディングルーフ",
+              "price": 170000
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "modelName": "A250e",
+          "specifications": {
+            "driveSystem": "FF",
+            "transmission": {
+              "gears": 8,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "M282",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1331,
+              "boa": 72.2,
+              "stroke": 81.3,
+              "maximumOutput": 160,
+              "maximumTorque": 250,
+              "compressionRatio": 10.6,
+              "fuelType": "ハイオク",
+              "tankCapacity": 35
+            },
+            "weight": 1680,
+            "capacity": 5,
+            "gyrationRadius": 5.0,
+            "wltc": 16.1,
+            "bodySize": {
+              "length": 4440,
+              "width": 1800,
+              "height": 1455,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 145
+          },
+          "bodyType": "Hatchback",
+          "price": 5570000,
+          "compatibleOptions": [
+            {
+              "name": "ナビゲーションパッケージ",
+              "price": 191000
+            },
+            {
+              "name": "AMGレザーエクスクルーシブパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "アドバンスドパッケージ",
+              "price": 213000
+            },
+            {
+              "name": "パノラミックスライディングルーフ",
+              "price": 170000
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "modelName": "Mercedes-AMG A35 4MATIC",
+          "specifications": {
+            "driveSystem": "4WD",
+            "transmission": {
+              "gears": 7,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "M260",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1991,
+              "boa": 83.0,
+              "stroke": 92.0,
+              "maximumOutput": 306,
+              "maximumTorque": 400,
+              "compressionRatio": 10.0,
+              "fuelType": "ハイオク",
+              "tankCapacity": 51
+            },
+            "weight": 1560,
+            "capacity": 5,
+            "gyrationRadius": 5.4,
+            "wltc": 12.0,
+            "bodySize": {
+              "length": 4440,
+              "width": 1800,
+              "height": 1410,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 105
+          },
+          "bodyType": "Hatchback",
+          "price": 6360000,
+          "compatibleOptions": [
+            {
+              "name": "ナビゲーションパッケージ",
+              "price": 191000
+            },
+            {
+              "name": "AMGアドバンスドパッケージ",
+              "price": 358000
+            },
+            {
+              "name": "AMGパフォーマンスパッケージ",
+              "price": 563000
+            },
+            {
+              "name": "パノラミックスライディングルーフ",
+              "price": 170000
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "modelName": "Mercedes-AMG A45S 4MATIC+",
+          "specifications": {
+            "driveSystem": "4WD",
+            "transmission": {
+              "gears": 8,
+              "type": "DCT"
+            },
+            "engine": {
+              "engineName": "M139",
+              "type": "直列",
+              "cylinders": 4,
+              "turbo": true,
+              "injectionMethod": "直噴",
+              "displacement": 1991,
+              "boa": 83.0,
+              "stroke": 92.0,
+              "maximumOutput": 421,
+              "maximumTorque": 500,
+              "compressionRatio": 9.0,
+              "fuelType": "ハイオク",
+              "tankCapacity": 51
+            },
+            "weight": 1640,
+            "capacity": 5,
+            "gyrationRadius": 5.4,
+            "wltc": 11.0,
+            "bodySize": {
+              "length": 4445,
+              "width": 1850,
+              "height": 1410,
+              "wheelbase": 2730
+            },
+            "minimumGroundClearance": 115
+          },
+          "bodyType": "Hatchback",
+          "price": 8020000,
+          "compatibleOptions": [
+            {
+              "name": "AMGアドバンスドパッケージ",
+              "price": 204000
+            },
+            {
+              "name": "AMGパフォーマンスパッケージ",
+              "price": 563000
+            },
+            {
+              "name": "パノラミックスライディングルーフ",
+              "price": 170000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
